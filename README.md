@@ -1,1 +1,1 @@
-# Binary-Class-NN-for-IP-
+# GCN for network attack
